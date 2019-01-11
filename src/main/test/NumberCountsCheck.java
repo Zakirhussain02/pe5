@@ -1,3 +1,4 @@
+import com.stackroute.pe5.NumberCounts;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -19,7 +20,7 @@ public class NumberCountsCheck {
         numberCounts = null;
     }
 
-
+    //sucess case one
     @Test
     public void testNumberCountSuccess() {
         String input = "one one -one___two,,three,one @three*one?two four";
@@ -31,6 +32,7 @@ public class NumberCountsCheck {
         assertEquals(words,numberCounts.numberCount(input));
     }
 
+    //failure case one
     @Test
     public void testNumberCountFailure() {
         String input = "one one -one___two,,three,one @three*one?two four";
@@ -40,7 +42,7 @@ public class NumberCountsCheck {
         words.put("three",2);
         assertNotEquals(words,numberCounts.numberCount(input));
     }
-
+    //null case
     @Test(expected = NullPointerException.class)
     public void testInvalidCase() {
         assertNull(numberCounts.numberCount(null));

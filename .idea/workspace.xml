@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75536103-4f02-46a4-be6e-a0e043148506" name="Default Changelist" comment="" />
+    <list default="true" id="75536103-4f02-46a4-be6e-a0e043148506" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortInAscendingForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/UpdateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe5WithTestCases/BooleanMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe5WithTestCases/NumberCounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe5WithTestCases/UpdateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe5WithTestCases/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe5WithTestCases/com/company/ModifyMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe5WithTestCases/com/company/SortInAscendingForm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/BooleanMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/BooleanMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/META-INF/javaPe5WithTestCases.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/NumberCountsCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/NumberCountsCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/UpdateArrayCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/UpdateArrayCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/com/company/ModifyMapCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe5WithTestCases/com/company/SortAscendingFormCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BooleanMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NumberCounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/NumberCounts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/UpdateArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/ModifyMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/SortInAscendingForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/BooleanMapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/BooleanMapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/NumberCountsCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/NumberCountsCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/UpdateArrayCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/UpdateArrayCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/ModifyMapCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/ModifyMapCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/SortAscendingFormCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/SortAscendingFormCheck.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,29 +42,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/UpdateArray.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/UpdateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/SortInAscendingForm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/SortAscendingFormCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+            <state relative-caret-position="165">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
+                <element signature="e#0#707#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -42,21 +55,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/UpdateArrayCheck.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortInAscendingForm.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+            <state relative-caret-position="192">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#549#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/ModifyMap.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/SortAscendingFormCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
+            <state relative-caret-position="15">
+              <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/UpdateArrayCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="577">
+              <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-197">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#944#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/NumberCounts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="447">
+              <caret line="35" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#0#1026#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/NumberCountsCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+            <state relative-caret-position="277">
+              <caret line="47" column="43" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,31 +125,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/NumberCounts.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BooleanMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/ModifyMapCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -107,11 +136,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/BooleanMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+            <state relative-caret-position="-183">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/ModifyMapCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
             </state>
           </provider>
         </entry>
@@ -126,30 +164,56 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/BooelanMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BooleanMap.java" />
-        <option value="$PROJECT_DIR$/src/main/test/BooleanMapTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/NumberCounts.java" />
         <option value="$PROJECT_DIR$/src/main/test/UpdateArrayCopy.java" />
-        <option value="$PROJECT_DIR$/src/main/test/NumberCountsCheck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/ModifyMap.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/ModifyMapCheck.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/SortInAscendingFormCheck.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/SortAscendingFormCheck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/SortInAscendingForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BooleanMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ModifyMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NumberCounts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SortInAscendingForm.java" />
         <option value="$PROJECT_DIR$/src/main/java/UpdateArray.java" />
+        <option value="$PROJECT_DIR$/src/main/test/SortAscendingFormCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/test/NumberCountsCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/ModifyMap.java" />
+        <option value="$PROJECT_DIR$/src/main/test/ModifyMapCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/test/UpdateArrayCheck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/NumberCounts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/SortInAscendingForm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/UpdateArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/BooleanMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/UpdateArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/NumberCounts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/BooleanMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/ModifyMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/SortInAscendingForm.java" />
+        <option value="$PROJECT_DIR$/src/main/test/BooleanMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/NumberCounts.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortInAscendingForm.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="683" />
-    <option name="y" value="27" />
-    <option name="width" value="673" />
-    <option name="height" value="741" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -186,7 +250,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="pe5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaPe5WithTestCases" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaPe5WithTestCases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -201,14 +272,21 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547180272843" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547201558127" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/company" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../PE4" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.company" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -230,94 +308,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SortInAscendingForm">
-    <configuration name="SortInAscendingForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.SortInAscendingForm" />
+  <component name="RunManager" selected="JUnit.BooleanMapTest">
+    <configuration name="BooleanMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaPe5WithTestCases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BooleanMapTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModifyMapCheck.testModifykeyValesFailure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ModifyMapCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaPe5WithTestCases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.ModifyMapCheck" />
-      <option name="METHOD_NAME" value="testModifykeyValesFailure" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ModifyMapCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberCountsCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe5WithTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NumberCountsCheck" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortAscendingFormCheck.testSortTheNamesSuccessOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe5WithTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortAscendingFormCheck" />
+      <option name="METHOD_NAME" value="testSortTheNamesSuccessOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortAscendingFormCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="UpdateArrayCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaPe5WithTestCases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.SortAscendingFormCheck" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortAscendingFormCheck.testSortTheNamesSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaPe5WithTestCases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.SortAscendingFormCheck" />
-      <option name="METHOD_NAME" value="testSortTheNamesSuccess" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortInAScendingFormCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaPe5WithTestCases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.company" />
-      <option name="MAIN_CLASS_NAME" value="com.company.SortInAScendingFormCheck" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UpdateArrayCheck" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SortInAscendingForm" />
-      <item itemvalue="JUnit.ModifyMapCheck.testModifykeyValesFailure" />
-      <item itemvalue="JUnit.SortAscendingFormCheck" />
-      <item itemvalue="JUnit.SortAscendingFormCheck.testSortTheNamesSuccess" />
-      <item itemvalue="JUnit.SortInAScendingFormCheck" />
+      <item itemvalue="JUnit.UpdateArrayCheck" />
+      <item itemvalue="JUnit.SortAscendingFormCheck.testSortTheNamesSuccessOne" />
+      <item itemvalue="JUnit.NumberCountsCheck" />
+      <item itemvalue="JUnit.ModifyMapCheck" />
+      <item itemvalue="JUnit.BooleanMapTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortInAscendingForm" />
-        <item itemvalue="JUnit.SortAscendingFormCheck.testSortTheNamesSuccess" />
-        <item itemvalue="JUnit.SortAscendingFormCheck" />
-        <item itemvalue="JUnit.SortInAScendingFormCheck" />
-        <item itemvalue="JUnit.ModifyMapCheck.testModifykeyValesFailure" />
+        <item itemvalue="JUnit.BooleanMapTest" />
+        <item itemvalue="JUnit.ModifyMapCheck" />
+        <item itemvalue="JUnit.NumberCountsCheck" />
+        <item itemvalue="JUnit.SortAscendingFormCheck.testSortTheNamesSuccessOne" />
+        <item itemvalue="JUnit.UpdateArrayCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -335,42 +382,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BooleanMapTest_testNumberCountFailure - 2019.01.10 at 16h 01m 18s.xml">
-      <configuration name="BooleanMapTest.testNumberCountFailure" configurationId="JUnit" />
+    <history-entry file="UpdateArrayCheck_UpdateArraySuccess - 2019.01.11 at 13h 07m 16s.xml">
+      <configuration name="UpdateArrayCheck.UpdateArraySuccess" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BooleanMapTest_testNumberCountFailure - 2019.01.10 at 16h 01m 37s.xml">
-      <configuration name="BooleanMapTest.testNumberCountFailure" configurationId="JUnit" />
+    <history-entry file="UpdateArrayCheck_UpdateArrayFailureOne - 2019.01.11 at 13h 09m 00s.xml">
+      <configuration name="UpdateArrayCheck.UpdateArrayFailureOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BooleanMapTest_testInvalid - 2019.01.10 at 16h 02m 53s.xml">
-      <configuration name="BooleanMapTest.testInvalid" configurationId="JUnit" />
+    <history-entry file="UpdateArrayCheck - 2019.01.11 at 13h 09m 05s.xml">
+      <configuration name="UpdateArrayCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BooleanMapTest_testInvalid - 2019.01.10 at 16h 03m 01s.xml">
-      <configuration name="BooleanMapTest.testInvalid" configurationId="JUnit" />
+    <history-entry file="SortAscendingFormCheck_testSortTheNamesSuccessOne - 2019.01.11 at 13h 12m 26s.xml">
+      <configuration name="SortAscendingFormCheck.testSortTheNamesSuccessOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BooleanMapTest_testInvalid - 2019.01.10 at 16h 04m 27s.xml">
-      <configuration name="BooleanMapTest.testInvalid" configurationId="JUnit" />
+    <history-entry file="SortAscendingFormCheck_testSortTheNamesSuccessOne - 2019.01.11 at 13h 12m 53s.xml">
+      <configuration name="SortAscendingFormCheck.testSortTheNamesSuccessOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BooleanMapTest_testInvalidCase - 2019.01.10 at 16h 06m 00s.xml">
-      <configuration name="BooleanMapTest.testInvalidCase" configurationId="JUnit" />
+    <history-entry file="SortAscendingFormCheck_testSortTheNamesSuccessOne - 2019.01.11 at 13h 13m 13s.xml">
+      <configuration name="SortAscendingFormCheck.testSortTheNamesSuccessOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BooleanMapTest_testInvalidCase - 2019.01.10 at 16h 07m 37s.xml">
-      <configuration name="BooleanMapTest.testInvalidCase" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NumberCountsCheck - 2019.01.10 at 16h 38m 23s.xml">
+    <history-entry file="NumberCountsCheck - 2019.01.11 at 13h 16m 35s.xml">
       <configuration name="NumberCountsCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAscendingFormCheck - 2019.01.11 at 09h 47m 03s.xml">
-      <configuration name="SortAscendingFormCheck" configurationId="JUnit" />
+    <history-entry file="ModifyMapCheck - 2019.01.11 at 13h 20m 23s.xml">
+      <configuration name="ModifyMapCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SortAscendingFormCheck_testSortTheNamesSuccess - 2019.01.11 at 09h 47m 46s.xml">
-      <configuration name="SortAscendingFormCheck.testSortTheNamesSuccess" configurationId="JUnit" />
+    <history-entry file="BooleanMapTest - 2019.01.11 at 13h 20m 54s.xml">
+      <configuration name="BooleanMapTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BooleanMapTest - 2019.01.11 at 15h 36m 32s.xml">
+      <configuration name="BooleanMapTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2962121" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -379,7 +426,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -387,12 +434,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32954547" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32954547" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -426,25 +473,101 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/BooleanMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="-47">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#526#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/UpdateArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="57" column="18" selection-start-line="57" selection-start-column="18" selection-end-line="57" selection-end-column="18" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/SortAscendingFormCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/ModifyMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="37" column="35" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        <state relative-caret-position="-197">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#944#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/NumberCounts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#0#1026#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/SortInAscendingForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe5/UpdateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#707#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/BooleanMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/ModifyMapCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/NumberCountsCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="47" column="43" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/SortAscendingFormCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -453,71 +576,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/UpdateArrayCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        <state relative-caret-position="577">
+          <caret line="49" column="9" lean-forward="true" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/ModifyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="51" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/NumberCountsCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/NumberCounts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BooleanMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/ModifyMapCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/BooleanMapTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/SortInAscendingForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>javaPe5WithTestCases</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

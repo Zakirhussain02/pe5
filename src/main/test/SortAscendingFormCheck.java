@@ -1,7 +1,4 @@
-package com.company;
-
-import org.junit.After;
-import com.company.SortInAscendingForm;
+import com.stackroute.pe5.SortInAscendingForm;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -23,6 +20,7 @@ public class SortAscendingFormCheck {
     public void tearDown() throws Exception {
         sortTheNames=null; }
 
+        //success case one
     @Test
     public void testSortTheNamesSuccess() {
         Set<String> inputList = new HashSet<String>();
@@ -40,7 +38,7 @@ public class SortAscendingFormCheck {
         assertEquals(expectedValue,actualValue);
     }
 
-
+    //failure case one
     @Test
     public void testSortTheNamesFailure() {
         Set<String> inputList = new HashSet<String>();
@@ -59,7 +57,23 @@ public class SortAscendingFormCheck {
         assertNotEquals(expectedValue,actualValue);
     }
 
-
+    //success cases two
+    @Test
+    public void testSortTheNamesSuccessOne() {
+        Set<String> inputList = new HashSet<String>();
+        inputList.add("Zakir");
+        inputList.add("Uday");
+        inputList.add("Santosh");
+        inputList.add("Amit");
+        ArrayList<String> actualValue=new ArrayList<>();
+        ArrayList<String> expectedValue=new ArrayList<>();
+        expectedValue.add("Amit");
+        expectedValue.add("Santosh");
+        expectedValue.add("Uday");
+        expectedValue.add("Zakir");
+        actualValue=sortTheNames.sortAscending((HashSet<String>) inputList);
+        assertEquals(expectedValue,actualValue);
+    }
 
 
 

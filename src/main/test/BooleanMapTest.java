@@ -1,3 +1,4 @@
+import com.stackroute.pe5.BooleanMap;
 import org.junit.*;
 
 import java.util.HashMap;

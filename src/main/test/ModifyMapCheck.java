@@ -1,13 +1,9 @@
-package com.company;
-
-import com.company.ModifyMap;
+import com.stackroute.pe5.ModifyMap;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import java.util.HashMap;
 import java.util.LinkedHashMap;
-import java.util.Map;
 
 import static org.junit.Assert.*;
 
@@ -25,6 +21,7 @@ public class ModifyMapCheck
         modifyMap=null;
     }
 
+    //success case
     @Test
     public void testModifykeyValesSucess()
     {
@@ -39,6 +36,7 @@ public class ModifyMapCheck
         assertEquals(expectedValue,actualValue);
     }
 
+    //failure case
     @Test
     public void testModifykeyValesFailure()
     {
@@ -53,6 +51,11 @@ public class ModifyMapCheck
         assertNotEquals(expectedValue,actualValue);
     }
 
+//null case
+    @Test(expected = NullPointerException.class)
+    public void testInvalidCase() {
+        assertNull(modifyMap.ModifykeyValues(null));
+    }
 
 
 
